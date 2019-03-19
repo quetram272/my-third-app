@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
  serverElement =[{type: 'server', name:'Testserver', content:'Just a test!'}];
- 
+ a = 1;
 }
